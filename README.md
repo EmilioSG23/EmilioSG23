@@ -1,5 +1,5 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+# Repositorio Personal
+Este es mi repositorio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
