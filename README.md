@@ -20,4 +20,7 @@ proyectos y mis intereses.
 * [Catálogo de Videojuegos](https://github.com/PaulaPeraltaA/Proyecto-P1-Estructuras-G6)
 * [Visualizador de Archivos](https://github.com/PaulaPeraltaA/Proyecto-P2---Estructuras--G6)
 ## Intereses
-* [Lista de tus intereses]
+* Desde adolescente, me ha interesado bastante el mundo de la computación y la programación
+* Me gustan los videojuegos
+* Soy muy estricto con las cosas, mucho más si son mías. Siempre intento mejorar
+* Me interesa bastante el fútbol, aunque soy muy malo jugándolo
