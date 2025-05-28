@@ -10,7 +10,7 @@ proyectos y mis intereses.
 * Fecha de Nacimiento: 23 de Octubre
 * Ocupación:  Estudiante
 * Lugar de residencia: Ecuador
-* Sitio web: [Click aquí](https://emiliosg23.github.io/EmilioSG23/)
+* Sitio web: [Click aquí](https://emiliosg23.github.io/curriculum/)
 ## Proyectos
 * [EmilioSG23](https://emiliosg23.github.io/EmilioSG23/)
 * [Currículum](https://emiliosg23.github.io/curriculum/)
@@ -24,3 +24,27 @@ proyectos y mis intereses.
 * Me gustan los videojuegos
 * Soy muy estricto con las cosas, mucho más si son mías. Siempre intento mejorar
 * Me interesa bastante el fútbol, aunque soy muy malo jugándolo
+## Programación
+### Lenguajes
+* TypeScript
+* JavaScript
+* Java
+* Python
+* C#
+### Frontend
+* Astro
+* React
+* Angular
+* HTML
+* CSS
+* Tailwind CSS
+* Unity
+### Backend
+* Express
+* NodeJS
+### Otras herramientas
+* SQL
+* MySQL
+* Photoshop
+* Illustrator
+* Figma
