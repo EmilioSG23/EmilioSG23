@@ -53,9 +53,9 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
 
 ## Proyectos
 * [EmilioSG23](https://emiliosg23.github.io/EmilioSG23/)
-* [Currículum](https://emiliosg23.github.io/curriculum/)
-* [Landing](https://emiliosg23.github.io/landing/)
-* [Dashboard](https://emiliosg23.github.io/dashboard/)
+* [Currículum](https://github.com/EmilioSG23/curriculum/)
+* [Landing](https://github.com/EmilioSG23/landing/)
+* [Dashboard](https://github.com/EmilioSG23/dashboard/)
 * [Simulador de Róvers en Marte](https://github.com/JamesMalave/Proyecto-POO-G2)
 * [Catálogo de Videojuegos](https://github.com/PaulaPeraltaA/Proyecto-P1-Estructuras-G6)
 * [Visualizador de Archivos](https://github.com/PaulaPeraltaA/Proyecto-P2---Estructuras--G6)
