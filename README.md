@@ -23,6 +23,7 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
   <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/java.png" width="64" height="64" alt="Java" />
   <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/python.png" width="64" height="64" alt="Python" />
   <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/c_sharp.png" width="64" height="64" alt="C#" />
+  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/c.png" width="64" height="64" alt="C" />
 </div>
 
 ### Frontend
@@ -40,6 +41,7 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
 <div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
   <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/express.png" width="64" height="64" title="Express" />
   <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/nodejs.png" width="64" height="64" title="Node.js" />
+  <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/springboot.png" width="64" height="64" title="Springboot" />
 </div>
 
 ### Otras herramientas
@@ -49,6 +51,7 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
   <img src="https://emiliosg23.github.io/curriculum/habilidades/others/photoshop.png" width="64" height="64" title="Photoshop" />
   <img src="https://emiliosg23.github.io/curriculum/habilidades/others/illustrator.png" width="64" height="64" title="Illustrator" />
   <img src="https://emiliosg23.github.io/curriculum/habilidades/others/figma.png" width="64" height="64" title="Figma" />
+  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/vs-code.png" width="64" height="64" title="Visual Studio Code" />
 </div>
 
 ## Proyectos
