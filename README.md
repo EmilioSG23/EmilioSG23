@@ -18,40 +18,40 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
 ## Programación
 ### Lenguajes
 <div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/typescript.png" width="64" height="64" alt="TypeScript" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/javascript.png" width="64" height="64" alt="JavaScript" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/java.png" width="64" height="64" alt="Java" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/python.png" width="64" height="64" alt="Python" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/c_sharp.png" width="64" height="64" alt="C#" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/c.png" width="64" height="64" alt="C" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/typescript.webp" width="64" height="64" alt="TypeScript" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/javascript.webp" width="64" height="64" alt="JavaScript" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/java.webp" width="64" height="64" alt="Java" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/python.webp" width="64" height="64" alt="Python" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c_sharp.webp" width="64" height="64" alt="C#" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c.webp" width="64" height="64" alt="C" />
 </div>
 
 ### Frontend
 <div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/html.png" width="64" height="64" title="HTML" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/languages/css.png" width="64" height="64" title="CSS" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/frontend/astro.png" width="64" height="64" title="Astro" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/frontend/react.png" width="64" height="64" title="React" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/frontend/angular.png" width="64" height="64" title="Angular" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/frontend/tailwind.png" width="64" height="64" title="Tailwind CSS" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/frontend/unity.png" width="64" height="64" title="Unity" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/html.webp" width="64" height="64" title="HTML" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/css.webp" width="64" height="64" title="CSS" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/astro.webp" width="64" height="64" title="Astro" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/react.webp" width="64" height="64" title="React" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/angular.webp" width="64" height="64" title="Angular" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/tailwind.webp" width="64" height="64" title="Tailwind CSS" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/unity.webp" width="64" height="64" title="Unity" />
 </div>
 
 ### Backend
 <div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/express.png" width="64" height="64" title="Express" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/nodejs.png" width="64" height="64" title="Node.js" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/backend/springboot.png" width="64" height="64" title="Springboot" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/express.webp" width="64" height="64" title="Express" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/nodejs.webp" width="64" height="64" title="Node.js" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/springboot.webp" width="64" height="64" title="Springboot" />
 </div>
 
 ### Otras herramientas
 <div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/sql.png" width="64" height="64" title="SQL" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/mysql.png" width="64" height="64" title="MySQL" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/photoshop.png" width="64" height="64" title="Photoshop" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/illustrator.png" width="64" height="64" title="Illustrator" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/figma.png" width="64" height="64" title="Figma" />
-  <img src="https://emiliosg23.github.io/curriculum/habilidades/others/vs-code.png" width="64" height="64" title="Visual Studio Code" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/sql.webp" width="64" height="64" title="SQL" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/mysql.webp" width="64" height="64" title="MySQL" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/photoshop.webp" width="64" height="64" title="Photoshop" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/illustrator.webp" width="64" height="64" title="Illustrator" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/figma.webp" width="64" height="64" title="Figma" />
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/vs-code.webp" width="64" height="64" title="Visual Studio Code" />
 </div>
 
 ## Proyectos
@@ -62,13 +62,3 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
 * [Simulador de Róvers en Marte](https://github.com/JamesMalave/Proyecto-POO-G2)
 * [Catálogo de Videojuegos](https://github.com/PaulaPeraltaA/Proyecto-P1-Estructuras-G6)
 * [Visualizador de Archivos](https://github.com/PaulaPeraltaA/Proyecto-P2---Estructuras--G6)
-* [Laberinto Encantado](https://github.com/EmilioSG23/laberinto_encantado)
-* [Portfolio Laberinto Encantado](https://github.com/domorales/portfolio-momentum)
-## Intereses
-* Desde adolescente, me ha interesado bastante el mundo de la computación y la programación
-* Me gustan los videojuegos
-* Soy muy estricto con las cosas, mucho más si son mías. Siempre intento mejorar
-* Me interesa bastante el fútbol, aunque soy muy malo jugándolo
-
-
-
