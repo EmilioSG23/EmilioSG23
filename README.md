@@ -1,7 +1,9 @@
 # EmilioSG23
-Soy un joven informático dedicado al desarrollo de software de distintos ámbitos, como la creación de aplicaciones de escritorio, web y móviles.
-Mis proyectos cuentan con una buena calidad en todos los aspectos, desde la parte técnica con el uso de buenas prácticas de programación hasta
+
+Soy un joven informático dedicado al desarrollo de software de distintos ámbitos, como la creación de aplicaciones de escritorio, web y móviles.  
+Mis proyectos cuentan con una buena calidad en todos los aspectos, desde la parte técnica con el uso de buenas prácticas de programación hasta  
 la parte gráfica, con la inclusión de diseños atractivos, funcionales y adaptables a cualquier dispositivo.
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Programación](#programación)
@@ -9,59 +11,59 @@ la parte gráfica, con la inclusión de diseños atractivos, funcionales y adapt
 * [Intereses](#intereses)
 
 ## Información personal
-* Nombre: Emilio Ignacion Sáenz Gómez
+* Nombre: Emilio Ignacio Sáenz Gómez
 * Fecha de Nacimiento: 23 de Octubre
-* Ocupación:  Estudiante
+* Ocupación: Estudiante
 * Lugar de residencia: Ecuador
 * Sitio web: [Click aquí](https://emiliosg23.github.io/curriculum/)
-  
+
 ## Programación
-### Lenguajes
-<div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/typescript.webp" width="64" height="64" alt="TypeScript" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/javascript.webp" width="64" height="64" alt="JavaScript" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/java.webp" width="64" height="64" alt="Java" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/python.webp" width="64" height="64" alt="Python" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c_sharp.webp" width="64" height="64" alt="C#" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c.webp" width="64" height="64" alt="C" />
-</div>
 
-### Frontend
-<div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/html.webp" width="64" height="64" title="HTML" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/languages/css.webp" width="64" height="64" title="CSS" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/astro.webp" width="64" height="64" title="Astro" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/react.webp" width="64" height="64" title="React" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/angular.webp" width="64" height="64" title="Angular" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/tailwind.webp" width="64" height="64" title="Tailwind CSS" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/unity.webp" width="64" height="64" title="Unity" />
-</div>
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/typescript.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/javascript.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/java.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/python.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c_sharp.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/c.webp" width="64"/>
+</p>
 
-### Backend
-<div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/skills/backend/express.webp" width="64" height="64" title="Express" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/backend/nodejs.webp" width="64" height="64" title="Node.js" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/backend/springboot.webp" width="64" height="64" title="Springboot" />
-</div>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/html.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/languages/css.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/astro.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/react.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/angular.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/tailwind.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/frontend/unity.webp" width="64"/>
+</p>
 
-### Otras herramientas
-<div style="width:100%; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-items: center;">
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/sql.webp" width="64" height="64" title="SQL" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/mysql.webp" width="64" height="64" title="MySQL" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/photoshop.webp" width="64" height="64" title="Photoshop" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/illustrator.webp" width="64" height="64" title="Illustrator" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/figma.webp" width="64" height="64" title="Figma" />
-  <img src="https://emiliosg23.github.io/curriculum/skills/others/vs-code.webp" width="64" height="64" title="Visual Studio Code" />
-</div>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/express.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/nodejs.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/backend/springboot.webp" width="64"/>
+</p>
+
+<h3 align="center">Otras herramientas</h3>
+<p align="center">
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/sql.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/mysql.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/photoshop.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/illustrator.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/figma.webp" width="64"/>
+  <img src="https://emiliosg23.github.io/curriculum/skills/others/vs-code.webp" width="64"/>
+</p>
 
 ## Proyectos
-* [EmilioSG23](https://emiliosg23.github.io/EmilioSG23/)
-* [Currículum](https://github.com/EmilioSG23/curriculum/)
+* [Laberinto Encantado](https://github.com/EmilioSG23/laberinto_encantado/)
 * [Landing](https://github.com/EmilioSG23/landing/)
 * [Dashboard](https://github.com/EmilioSG23/dashboard/)
-* [Simulador de Róvers en Marte](https://github.com/JamesMalave/Proyecto-POO-G2)
-* [Catálogo de Videojuegos](https://github.com/PaulaPeraltaA/Proyecto-P1-Estructuras-G6)
-* [Visualizador de Archivos](https://github.com/PaulaPeraltaA/Proyecto-P2---Estructuras--G6)
+* [Visualizador de Archivos](https://github.com/EmilioSG23/file-viewer)
+* [EmilioSG23](https://emiliosg23.github.io/EmilioSG23/)
+* [Currículum](https://github.com/EmilioSG23/curriculum/)
 
 ## Intereses
 * Desde adolescente, me ha interesado bastante el mundo de la computación y la programación
